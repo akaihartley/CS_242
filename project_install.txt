@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+PyPDF2
+pympler
+lxml
+time
+xml
+concurrent
+re
+spacy
